@@ -12,3 +12,5 @@ To run the Streamlit app, execute the following command in your terminal:
 ```bash
 python -m streamlit run app.py
 
+
+Contributions are welcome!!
