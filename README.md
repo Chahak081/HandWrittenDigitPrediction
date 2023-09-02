@@ -6,3 +6,9 @@ This project aims to predict handwritten digits using a machine learning classif
 
 The primary goal of this project is to showcase the process of creating and assessing a machine learning model designed to recognize handwritten digits. Using the scikit-learn library, we'll develop a classification algorithm to accurately classify and predict the digits present in the input images. Through this project, we aim to provide an illustrative example of how machine learning can be applied to solve real-world problems, particularly in the context of digit recognition from handwritten data.
 
+## Deployment on local host:
+To run the Streamlit app, execute the following command in your terminal:
+
+```bash
+python -m streamlit run app.py
+
